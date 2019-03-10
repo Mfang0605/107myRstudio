@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552232637748.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3295495501",
+    "id" : "F80685AA",
+    "lastKnownWriteTime" : 1552232771,
+    "last_content_update" : 1552232771968,
+    "path" : "~/GitHub/107myRstudio/2018-3-9.Rmd",
+    "project_path" : "2018-3-9.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
